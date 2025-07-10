@@ -17,6 +17,8 @@ View 4: Success page
 - Show the "paymentDataId" returned by the payment api you will also create.
 
 
-Guidelines: PostgreSQL, Hexagonal Architecture, Domain Driven Design, Model View Controller
+Guidelines: PostgreSQL, Hexagonal Architecture, Domain Driven Design, Model View Controller, Redis
 
 Firstly implement only the backend in Go
+
+- Sessions, Tokens, Interfaces, Cookies
