@@ -19,6 +19,8 @@ View 4: Success page
 
 Guidelines: PostgreSQL, Hexagonal Architecture, Domain Driven Design, Model View Controller, Redis
 
-Firstly implement only the backend in Go
+The goal is to implemet only the backend in Go
 
-- Sessions, Tokens, Interfaces, Cookies
+- Sessions, Tokens, Interfaces, Cookies, Handler, Router, Context, Methods, Receivers, Setters, Getters, Port, Controller, Adapter, Pointer, Pass by reference, Constructor, Controller, Handle, Context, Domain, Entity
+
+.\migrate.exe -path=internal/database/migrations -database "postgresql://postgres:31415926@localhost:5432/registration_app?sslmode=disable" -verbose up
